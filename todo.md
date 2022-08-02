@@ -1,0 +1,4 @@
+- Validate function strucutre
+- Show sample trip object on the side (can be editable)
+- on the bottom, select rule, observer
+- will inject the trip/or w/e object and run and show output, if error show the errors
