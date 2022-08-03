@@ -17,6 +17,21 @@ body {
   height: 500px;
 }
 
+
+.btn--container {
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn--container button {
+  padding: 10px;
+  color: white;
+  background-color: #282c34;
+  border: none;
+  cursor: pointer;
+}
+
 /* .code--main {
   background-color: white;
 }
